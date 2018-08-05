@@ -12,7 +12,7 @@ set command2=copy C:\Users\Public\file1.txt C:\Users\User1\Desktop\file1.txt.
 set command3=GOTO checker
 
 ---
-The last variable need to be GOTO CHECKER or the program will crash.
+The last variable need to be GOTO CHECKER or the updater will crash.
 Once you've successfully create commands.bat upload it to your google drive account and get its direct link, 
 you need to put its direct url on the Updater.bat on "url here", you need to double quote the
 ampersand of the url. 
